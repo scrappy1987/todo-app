@@ -1,0 +1,6 @@
+backend/.settings
+backend/target/
+backend/.classpath
+backend/.factorypath
+backend/.project
+frontend/node_modules/
