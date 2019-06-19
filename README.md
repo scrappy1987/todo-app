@@ -42,42 +42,42 @@ http://localhost:8080/todo
 ```
 The service should return an empty JavaScript array 
 ```
-Step 6:
+Step 5:
 From a browser access the DB by executing the following HTTP request:
 http://localhost:8080/h2-console
 
-Step 7:
+Step 6:
 Enter the following details and log into the DB:
 ```
 JDBC URL: jdbc:h2:mem:todo
 User name: sa
 Password: password
 ```
-Step 8:
+Step 7:
 Enter data into the DB by executing the following SQL statement:
 ```
 INSERT INTO TODO (ID, TODO_NAME) VALUES (1, 'Feed the cat')
 ```
-Step 9:
+Step 8:
 From a browser access the API by executing the following HTTP request:
 http://localhost:8080/todo
 ```
 The service should return an array of TODO objects
 ```
-Step 10:
+Step 9:
 Open a cmd line in the frontend folder and execute the following command:
 ```
 npm install
 ```
-Step 11:
+Step 10:
 Next in the cmd line execute the following command:
 ```
 npm start
 ```
-Step 12:
+Step 11:
 From a browser access the app by executing the following HTTP request:
 ```
 http://localhost:3000
 ```
-Step 13:
+Step 12:
 From the browser add and remove todo information from the web application. Please observe how this also changes the API and DB.
