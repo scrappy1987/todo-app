@@ -11,7 +11,7 @@ This is a simple todo management system that can be used as a reference architec
 
 Prerequisite
 -----
-Prior to running this application we need to setup our windows environments. Please complete the following steps in order: Java, Maven, GIT, Node.js and create-react-app (npm install -g create-react-app)
+Prior to running this application we need to setup our windows environments. Please complete the following installation steps in order: Java, Maven, GIT, Node.js and create-react-app (npm install -g create-react-app)
 
 Note: If you have problems please contact your team mates via Slack.
 
