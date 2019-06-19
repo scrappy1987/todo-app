@@ -19,6 +19,10 @@ Project Management
 ---------------
 This project uses an agile methodology. Please see example board at the following link: [https://trello.com/b/msUSX9Vs/todo-board](https://trello.com/b/msUSX9Vs/todo-board)
 
+Architecture
+---------------
+The following diagram shows the high level reference architecture for the application: ![](./arch.jpg)
+
 Running the application
 -----
 Step 1:
